@@ -3,7 +3,9 @@
 
 Projeto de elaboração de uma API Restful utilizando o framework Spring Boot da linguagem Java.
 
+### Aplicaçoes
 
+...
 
 ## Tenologias utilizadas
 Linguagens, Frameworks e Bibliotecas utilizadas na construção do projeto.
