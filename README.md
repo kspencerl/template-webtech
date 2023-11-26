@@ -3,7 +3,7 @@
 
 Projeto de elaboração de uma API Restful utilizando o framework Spring Boot da linguagem Java.
 
-### Aplicaçoes
+### Onde aplicar
 
 ...
 
